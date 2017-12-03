@@ -17,6 +17,13 @@ body {
   color: white;
   font-weight: bold;
 }
+/*
+  ul {
+  list-style-type: none;
+  width: 60px;
+  text-align: center;
+}
+*/
 .process {
   font-size: 32px;
   font-weight: bold;
@@ -31,7 +38,10 @@ p {
 .ny {
   font-size: 23px;
   font-weight: bold;
-  color: blue;
+  color: white;
+  background-image:
+    url("c:/projects/broadway/resources/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
 }
 a {
   color: white;
